@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gavhane</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on [my Portfolio using JS framework React](https://github.com/vaishnavigavhane/portfolio)
+- 🔭 I’m currently working on [Eccommerce Shop using JS framework React](https://github.com/vaishnavigavhane/portfolio)
 
 - 🌱 I’m currently learning **ReactJS, PHP.**
 
